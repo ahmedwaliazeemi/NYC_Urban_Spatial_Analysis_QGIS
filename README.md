@@ -18,7 +18,7 @@ CRS Management: Standardized projection to NAD83 / New York Long Island (ftUS) f
 
 <h2>🛠️ Technology Stack</h2>
 
-<h2>>Core Software</h2>
+<h2>Core Software</h2>
 GIS Software: QGIS (Quantum GIS)
 
 # Data Sources
