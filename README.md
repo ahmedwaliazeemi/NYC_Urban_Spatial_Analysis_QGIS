@@ -1,4 +1,4 @@
-#🗺️ Spatial Analysis of NYC Urban Development: Brooklyn (QGIS)
+# 🗺️ Spatial Analysis of NYC Urban Development: Brooklyn (QGIS)
 
 <h2>🎯 Project Overview</h2>
 
